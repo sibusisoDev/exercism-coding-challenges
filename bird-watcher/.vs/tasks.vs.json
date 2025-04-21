@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-bird-watcher",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-BirdWatcher",
+      "appliesTo": "BirdWatcher.cs",
+      "type": "launch"
+    }
+  ]
+}
